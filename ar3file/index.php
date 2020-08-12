@@ -1,2 +1,2 @@
 <?php
-echo "ffffffff";
+echo "xxxxxxx";
